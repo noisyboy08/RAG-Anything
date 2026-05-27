@@ -1858,4 +1858,4 @@ RAG-Anything-main/
 
 ---
 
-*RAG-Anything v1.2.9 — © 2024 Zirui Guo / HKUDS. MIT License.*
+*RAG-Anything v1.2.9 — © 2024 Uday Dolas (noisyboy08). MIT License.*
